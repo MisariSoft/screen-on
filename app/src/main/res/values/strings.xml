@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Screen On</string>
+    <string name="header">Keep</string>
+    <string name="screen_on">On</string>
+    <string name="screen_off">Off</string>
+
+</resources>
